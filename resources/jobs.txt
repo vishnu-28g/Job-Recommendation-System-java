@@ -1,0 +1,10 @@
+1,TCS,Java Developer,java sql spring
+2,Infosys,Web Developer,html css javascript
+3,Accenture,Data Analyst,python sql powerbi
+4,Wipro,Software Engineer,java sql oop
+5,Zoho,Backend Developer,java spring mysql
+6,Cognizant,Frontend Developer,html css javascript react
+7,Google,Software Engineer,java algorithms systemdesign
+8,Microsoft,Backend Engineer,java spring mysql restapi
+9,Amazon,SDE,java dsa sql
+10,IBM,Data Engineer,python sql hadoop
